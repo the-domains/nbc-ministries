@@ -1,0 +1,28 @@
+name: NBC Ministries
+favicon: null
+layout_spectrum: 0.8791095439810306
+typography_spectrum: 0.48495581396855414
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9775159957353026
+  lightness: 0.6124858071561903
+  saturation: 0.14871289068832994
+  rhythmicContrast: 0.44871759228408337
+purpose: []
